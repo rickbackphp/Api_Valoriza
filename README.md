@@ -16,12 +16,12 @@ Projeto Valoriza
 
 # Bibliotecas usadas:
 
-  -> typescript
-  -> express
-  -> typeORM
-  -> JWT
-  -> bcryptjs
-  -> class-transformer
+  - typescript
+  - express
+  - typeORM
+  - JWT
+  - bcryptjs
+  - class-transformer
   
   # Descrição:
   
