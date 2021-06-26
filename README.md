@@ -1,6 +1,6 @@
-## Api_Valoriza
+# Api_Valoriza
 
-# Projeto Valoriza:
+## Projeto Valoriza:
 
 - Cadastro de Usuario;
 - Cadastro de Tags;
